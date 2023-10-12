@@ -84,4 +84,7 @@ src/stamp-h1
 
 /bazel-*
 
+zig-out/
+zig-cache/
+
 # End
